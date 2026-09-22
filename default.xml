@@ -22,8 +22,7 @@
   <project path="cts" name="platform/cts" revision="9138099b905c8fc539952b8f3a89d84c574004a7" />
   <project path="dalvik" name="platform/dalvik" revision="05b50165be074c7161184fa0ad191e3cccd593fd" />
   <project path="development" name="platform/development" revision="09eaedaeb31aa11e0cc7d97e31359264ff7540f1" />
-  <!-- Not in use until 29 May 2012 -->
-  <project path="device/asus/grouper" name="device/asus/grouper" revision="150e057022abf927ab342e039530d47e50267f51" />
+  <project path="device/asus/grouper" name="device/asus/grouper" revision="671476b0aa1b2b8a3d0bd0b1adb800a759030d13" />
   <project path="device/common" name="device/common" revision="94d3522c8193b4dcb4e88f697d0f68996da7e395" />
   <!-- Not in use until 6 June 2012 -->
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" revision="62e685ff51119fdd2c86bf8368bf84aa50e60756" />
